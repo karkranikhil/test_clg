@@ -1,8 +1,8 @@
 ## 🚀 Gatsby Digital Resume
 
-### **Prerequisite to run the project**
+### **Prerequisites to run the project**
 ---
-1) Nodejs
+1. **Nodejs**
 
     To install Nodejs follow the following steps based on your Operating system
     1) For MAC OS - (https://treehouse.github.io/installation-guides/mac/node-mac.html)
@@ -15,7 +15,10 @@
     ```shell
     npm install -g gatsby-cli
     ```
+    
 ### **Project setup**
+--- 
+
 1.  **Clone the project**
 
     ```bash
