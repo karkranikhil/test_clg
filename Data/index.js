@@ -1,5 +1,5 @@
 export default {
-  THEME_TYPE: "CINNABAR_THEME",
+  THEME_TYPE: "IRISH_THEME",
   HEADER_DATA: {
     profile_name: "Nikhil Karkra",
     profile_designation: "Full Stack Developer",
@@ -35,7 +35,7 @@ export default {
   CAREER_SUMMARY: {
     HEADING: "Career Summary",
     DESCRIPTION:
-      "Your Career Summary goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "SomethingYour Career Summary goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     KEY_POINTS: [
       "If You want to add summary points it comes here. and its optional",
       "keypoint 2 Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
